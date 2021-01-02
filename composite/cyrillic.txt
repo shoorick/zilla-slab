@@ -1,0 +1,2 @@
+Acyrillic = A | 0410
+Acyrillic.c2sc = A.c2sc
