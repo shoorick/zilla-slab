@@ -1,2 +1,4 @@
 Acyrillic = A | 0410
 Acyrillic.c2sc = A.c2sc
+Vecyrillic = B | 0412
+Vecyrillic.c2sc = B.c2sc

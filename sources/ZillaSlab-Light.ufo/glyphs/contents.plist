@@ -556,6 +556,10 @@
   <string>V_.glif</string>
   <key>V.c2sc</key>
   <string>V_.c2sc.glif</string>
+  <key>Vecyrillic</key>
+  <string>V_ecyrillic.glif</string>
+  <key>Vecyrillic.c2sc</key>
+  <string>V_ecyrillic.c2sc.glif</string>
   <key>W</key>
   <string>W_.glif</string>
   <key>W.c2sc</key>
