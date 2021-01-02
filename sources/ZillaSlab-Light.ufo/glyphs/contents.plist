@@ -32,6 +32,10 @@
   <string>A_circumflex.glif</string>
   <key>Acircumflex.c2sc</key>
   <string>A_circumflex.c2sc.glif</string>
+  <key>Acyrillic</key>
+  <string>A_cyrillic.glif</string>
+  <key>Acyrillic.c2sc</key>
+  <string>A_cyrillic.c2sc.glif</string>
   <key>Adieresis</key>
   <string>A_dieresis.glif</string>
   <key>Adieresis.c2sc</key>
