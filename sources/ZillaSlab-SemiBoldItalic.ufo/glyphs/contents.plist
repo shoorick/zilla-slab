@@ -140,6 +140,14 @@
   <string>E_macron.glif</string>
   <key>Emacron.c2sc</key>
   <string>E_macron.c2sc.glif</string>
+  <key>Emcyrillic</key>
+  <string>E_mcyrillic.glif</string>
+  <key>Emcyrillic.c2sc</key>
+  <string>E_mcyrillic.c2sc.glif</string>
+  <key>Encyrillic</key>
+  <string>E_ncyrillic.glif</string>
+  <key>Encyrillic.c2sc</key>
+  <string>E_ncyrillic.c2sc.glif</string>
   <key>Eng</key>
   <string>E_ng.glif</string>
   <key>Eng.c2sc</key>
@@ -148,6 +156,14 @@
   <string>E_ogonek.glif</string>
   <key>Eogonek.c2sc</key>
   <string>E_ogonek.c2sc.glif</string>
+  <key>Ercyrillic</key>
+  <string>E_rcyrillic.glif</string>
+  <key>Ercyrillic.c2sc</key>
+  <string>E_rcyrillic.c2sc.glif</string>
+  <key>Escyrillic</key>
+  <string>E_scyrillic.glif</string>
+  <key>Escyrillic.c2sc</key>
+  <string>E_scyrillic.c2sc.glif</string>
   <key>Eth</key>
   <string>E_th.glif</string>
   <key>Eth.c2sc</key>
@@ -308,6 +324,10 @@
   <string>I_dotaccent.glif</string>
   <key>Idotaccent.c2sc</key>
   <string>I_dotaccent.c2sc.glif</string>
+  <key>Iecyrillic</key>
+  <string>I_ecyrillic.glif</string>
+  <key>Iecyrillic.c2sc</key>
+  <string>I_ecyrillic.c2sc.glif</string>
   <key>Igrave</key>
   <string>I_grave.glif</string>
   <key>Igrave.c2sc</key>
@@ -316,6 +336,10 @@
   <string>I_macron.glif</string>
   <key>Imacron.c2sc</key>
   <string>I_macron.c2sc.glif</string>
+  <key>Iocyrillic</key>
+  <string>I_ocyrillic.glif</string>
+  <key>Iocyrillic.c2sc</key>
+  <string>I_ocyrillic.c2sc.glif</string>
   <key>Iogonek</key>
   <string>I_ogonek.glif</string>
   <key>Iogonek.c2sc</key>
@@ -336,10 +360,18 @@
   <string>K_.glif</string>
   <key>K.c2sc</key>
   <string>K_.c2sc.glif</string>
+  <key>Kacyrillic</key>
+  <string>K_acyrillic.glif</string>
+  <key>Kacyrillic.c2sc</key>
+  <string>K_acyrillic.c2sc.glif</string>
   <key>Kcommaaccent</key>
   <string>K_commaaccent.glif</string>
   <key>Kcommaaccent.c2sc</key>
   <string>K_commaaccent.c2sc.glif</string>
+  <key>Khacyrillic</key>
+  <string>K_hacyrillic.glif</string>
+  <key>Khacyrillic.c2sc</key>
+  <string>K_hacyrillic.c2sc.glif</string>
   <key>L</key>
   <string>L_.glif</string>
   <key>L.c2sc</key>
@@ -410,6 +442,10 @@
   <string>O_circumflex.glif</string>
   <key>Ocircumflex.c2sc</key>
   <string>O_circumflex.c2sc.glif</string>
+  <key>Ocyrillic</key>
+  <string>O_cyrillic.glif</string>
+  <key>Ocyrillic.c2sc</key>
+  <string>O_cyrillic.c2sc.glif</string>
   <key>Odieresis</key>
   <string>O_dieresis.glif</string>
   <key>Odieresis.c2sc</key>
@@ -444,6 +480,8 @@
   <string>P_.glif</string>
   <key>P.c2sc</key>
   <string>P_.c2sc.glif</string>
+  <key>Pecyrillic</key>
+  <string>P_ecyrillic.glif</string>
   <key>Q</key>
   <string>Q_.glif</string>
   <key>Q.c2sc</key>
@@ -506,6 +544,10 @@
   <string>T_commaaccent.glif</string>
   <key>Tcommaaccent.c2sc</key>
   <string>T_commaaccent.c2sc.glif</string>
+  <key>Tecyrillic</key>
+  <string>T_ecyrillic.glif</string>
+  <key>Tecyrillic.c2sc</key>
+  <string>T_ecyrillic.c2sc.glif</string>
   <key>Thorn</key>
   <string>T_horn.glif</string>
   <key>Thorn.c2sc</key>

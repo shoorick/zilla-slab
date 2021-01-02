@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Encyrillic.c2sc" format="1">
+  <advance width="637"/>
+  <outline>
+    <component base="H.c2sc"/>
+  </outline>
+</glyph>
