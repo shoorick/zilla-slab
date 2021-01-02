@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni24EA" format="1">
-  <advance width="0"/>
   <unicode hex="24EA"/>
-  <outline>
-  </outline>
+  <outline/>
   <lib>
     <dict>
       <key>com.typemytype.robofont.mark</key>
