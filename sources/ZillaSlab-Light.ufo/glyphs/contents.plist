@@ -104,6 +104,10 @@
   <string>D_croat.c2sc.glif</string>
   <key>Delta</key>
   <string>D_elta.glif</string>
+  <key>Dzecyrillic</key>
+  <string>D_zecyrillic.glif</string>
+  <key>Dzecyrillic.c2sc</key>
+  <string>D_zecyrillic.c2sc.glif</string>
   <key>E</key>
   <string>E_.glif</string>
   <key>E.c2sc</key>
@@ -318,10 +322,18 @@
   <string>I_circumflex.glif</string>
   <key>Icircumflex.c2sc</key>
   <string>I_circumflex.c2sc.glif</string>
+  <key>Icyrillic</key>
+  <string>I_cyrillic.glif</string>
+  <key>Icyrillic.c2sc</key>
+  <string>I_cyrillic.c2sc.glif</string>
   <key>Idieresis</key>
   <string>I_dieresis.glif</string>
   <key>Idieresis.c2sc</key>
   <string>I_dieresis.c2sc.glif</string>
+  <key>Idieresiscyrillic</key>
+  <string>I_dieresiscyrillic.glif</string>
+  <key>Idieresiscyrillic.c2sc</key>
+  <string>I_dieresiscyrillic.c2sc.glif</string>
   <key>Idotaccent</key>
   <string>I_dotaccent.glif</string>
   <key>Idotaccent.c2sc</key>
@@ -330,6 +342,10 @@
   <string>I_ecyrillic.glif</string>
   <key>Iecyrillic.c2sc</key>
   <string>I_ecyrillic.c2sc.glif</string>
+  <key>Iegravecyrillic</key>
+  <string>I_egravecyrillic.glif</string>
+  <key>Iegravecyrillic.c2sc</key>
+  <string>I_egravecyrillic.c2sc.glif</string>
   <key>Igrave</key>
   <string>I_grave.glif</string>
   <key>Igrave.c2sc</key>
@@ -358,6 +374,10 @@
   <string>J_circumflex.glif</string>
   <key>Jcircumflex.c2sc</key>
   <string>J_circumflex.c2sc.glif</string>
+  <key>Jecyrillic</key>
+  <string>J_ecyrillic.glif</string>
+  <key>Jecyrillic.c2sc</key>
+  <string>J_ecyrillic.c2sc.glif</string>
   <key>K</key>
   <string>K_.glif</string>
   <key>K.c2sc</key>
@@ -452,6 +472,10 @@
   <string>O_dieresis.glif</string>
   <key>Odieresis.c2sc</key>
   <string>O_dieresis.c2sc.glif</string>
+  <key>Odieresiscyrillic</key>
+  <string>O_dieresiscyrillic.glif</string>
+  <key>Odieresiscyrillic.c2sc</key>
+  <string>O_dieresiscyrillic.c2sc.glif</string>
   <key>Ograve</key>
   <string>O_grave.glif</string>
   <key>Ograve.c2sc</key>
@@ -482,6 +506,10 @@
   <string>P_.glif</string>
   <key>P.c2sc</key>
   <string>P_.c2sc.glif</string>
+  <key>Palochkacyrillic</key>
+  <string>P_alochkacyrillic.glif</string>
+  <key>Palochkacyrillic.c2sc</key>
+  <string>P_alochkacyrillic.c2sc.glif</string>
   <key>Pecyrillic</key>
   <string>P_ecyrillic.glif</string>
   <key>Q</key>
@@ -520,6 +548,10 @@
   <string>S_cedilla.glif</string>
   <key>Scedilla.c2sc</key>
   <string>S_cedilla.c2sc.glif</string>
+  <key>Schwacyrillic</key>
+  <string>S_chwacyrillic.glif</string>
+  <key>Schwacyrillic.c2sc</key>
+  <string>S_chwacyrillic.c2sc.glif</string>
   <key>Scircumflex</key>
   <string>S_circumflex.glif</string>
   <key>Scircumflex.c2sc</key>
@@ -594,6 +626,10 @@
   <string>U_ring.glif</string>
   <key>Uring.c2sc</key>
   <string>U_ring.c2sc.glif</string>
+  <key>Ustraightcyrillic</key>
+  <string>U_straightcyrillic.glif</string>
+  <key>Ustraightcyrillic.c2sc</key>
+  <string>U_straightcyrillic.c2sc.glif</string>
   <key>Utilde</key>
   <string>U_tilde.glif</string>
   <key>Utilde.c2sc</key>
@@ -944,6 +980,10 @@
   <string>downbreve.glif</string>
   <key>downbreve.cap</key>
   <string>downbreve.cap.glif</string>
+  <key>dzecyrillic</key>
+  <string>dzecyrillic.glif</string>
+  <key>dzecyrillic.smcp</key>
+  <string>dzecyrillic.smcp.glif</string>
   <key>e</key>
   <string>e.glif</string>
   <key>e.inferior</key>
@@ -1248,16 +1288,28 @@
   <string>icircumflex.glif</string>
   <key>icircumflex.smcp</key>
   <string>icircumflex.smcp.glif</string>
+  <key>icyrillic</key>
+  <string>icyrillic.glif</string>
+  <key>icyrillic.smcp</key>
+  <string>icyrillic.smcp.glif</string>
   <key>idieresis</key>
   <string>idieresis.glif</string>
   <key>idieresis.smcp</key>
   <string>idieresis.smcp.glif</string>
+  <key>idieresiscyrillic</key>
+  <string>idieresiscyrillic.glif</string>
+  <key>idieresiscyrillic.smcp</key>
+  <string>idieresiscyrillic.smcp.glif</string>
   <key>idotaccent.smcp</key>
   <string>idotaccent.smcp.glif</string>
   <key>iecyrillic</key>
   <string>iecyrillic.glif</string>
   <key>iecyrillic.smcp</key>
   <string>iecyrillic.smcp.glif</string>
+  <key>iegravecyrillic</key>
+  <string>iegravecyrillic.glif</string>
+  <key>iegravecyrillic.smcp</key>
+  <string>iegravecyrillic.smcp.glif</string>
   <key>igrave</key>
   <string>igrave.glif</string>
   <key>igrave.smcp</key>
@@ -1298,6 +1350,10 @@
   <string>jcircumflex.glif</string>
   <key>jcircumflex.smcp</key>
   <string>jcircumflex.smcp.glif</string>
+  <key>jecyrillic</key>
+  <string>jecyrillic.glif</string>
+  <key>jecyrillic.smcp</key>
+  <string>jecyrillic.smcp.glif</string>
   <key>k</key>
   <string>k.glif</string>
   <key>k.inferior</key>
@@ -1466,6 +1522,10 @@
   <string>odieresis.glif</string>
   <key>odieresis.smcp</key>
   <string>odieresis.smcp.glif</string>
+  <key>odieresiscyrillic</key>
+  <string>odieresiscyrillic.glif</string>
+  <key>odieresiscyrillic.smcp</key>
+  <string>odieresiscyrillic.smcp.glif</string>
   <key>oe</key>
   <string>oe.glif</string>
   <key>oe.smcp</key>
@@ -1532,6 +1592,10 @@
   <string>p.smcp.glif</string>
   <key>p.superior</key>
   <string>p.superior.glif</string>
+  <key>palochkacyrillic</key>
+  <string>palochkacyrillic.glif</string>
+  <key>palochkacyrillic.smcp</key>
+  <string>palochkacyrillic.smcp.glif</string>
   <key>paragraph</key>
   <string>paragraph.glif</string>
   <key>paragraph.smcp</key>
@@ -1696,6 +1760,10 @@
   <string>schwa.glif</string>
   <key>schwa.smcp</key>
   <string>schwa.smcp.glif</string>
+  <key>schwacyrillic</key>
+  <string>schwacyrillic.glif</string>
+  <key>schwacyrillic.smcp</key>
+  <string>schwacyrillic.smcp.glif</string>
   <key>scircumflex</key>
   <string>scircumflex.glif</string>
   <key>scircumflex.smcp</key>
@@ -1730,6 +1798,8 @@
   <string>sevensuperior.glif</string>
   <key>sheqel</key>
   <string>sheqel.glif</string>
+  <key>shhacyrillic</key>
+  <string>shhacyrillic.glif</string>
   <key>six</key>
   <string>six.glif</string>
   <key>six.numr</key>
@@ -1858,6 +1928,8 @@
   <string>udieresis.glif</string>
   <key>udieresis.smcp</key>
   <string>udieresis.smcp.glif</string>
+  <key>udieresiscyrillic</key>
+  <string>udieresiscyrillic.glif</string>
   <key>ugrave</key>
   <string>ugrave.glif</string>
   <key>ugrave.smcp</key>
@@ -1870,6 +1942,8 @@
   <string>umacron.glif</string>
   <key>umacron.smcp</key>
   <string>umacron.smcp.glif</string>
+  <key>umacroncyrillic</key>
+  <string>umacroncyrillic.glif</string>
   <key>underscore</key>
   <string>underscore.glif</string>
   <key>uni00A0</key>

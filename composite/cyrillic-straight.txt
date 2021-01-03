@@ -1,2 +1,4 @@
 pecyrillic = pi | 043F
 ucyrillic = y | 0443
+umacroncyrillic = ymacron | 04EF
+udieresiscyrillic = ydieresis | 04F1
