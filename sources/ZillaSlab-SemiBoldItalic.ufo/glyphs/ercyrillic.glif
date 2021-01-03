@@ -3,7 +3,7 @@
   <advance width="352"/>
   <unicode hex="0440"/>
   <outline>
-    <component base="r"/>
+    <component base="p"/>
     <contour>
       <point x="288" y="566" type="move" name="top"/>
     </contour>

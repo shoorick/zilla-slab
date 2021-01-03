@@ -39,6 +39,6 @@ acyrillic = a | 0430
 iecyrillic = e | 0435
 iocyrillic = edieresis | 0451
 ocyrillic = o | 043E
-ercyrillic = r | 0440
+ercyrillic = p | 0440
 escyrillic = s | 0441
 khacyrillic = x | 0445
