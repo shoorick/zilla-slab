@@ -1,3 +1,5 @@
+#!/bin/bash
+
 for font in $(ls -d *.ufo);
 do
     psfbuildcomp -i ../composite/cyrillic-common.txt $font
