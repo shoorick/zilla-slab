@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gecyrillic" format="1">
+  <advance width="561"/>
+  <unicode hex="0413"/>
+  <outline>
+    <contour>
+      <point x="539" y="459" type="line"/>
+      <point x="518" y="650" type="line"/>
+      <point x="41" y="650" type="line"/>
+      <point x="41" y="571" type="line"/>
+      <point x="120" y="571" type="line"/>
+      <point x="120" y="79" type="line"/>
+      <point x="41" y="79" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="323" y="0" type="line"/>
+      <point x="323" y="79" type="line"/>
+      <point x="211" y="79" type="line"/>
+      <point x="211" y="571" type="line"/>
+      <point x="439" y="571" type="line"/>
+      <point x="459" y="451" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-12 10:32:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

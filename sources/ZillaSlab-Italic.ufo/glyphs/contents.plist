@@ -280,6 +280,10 @@
   <string>G_dotaccent.glif</string>
   <key>Gdotaccent.c2sc</key>
   <string>G_dotaccent.c2sc.glif</string>
+  <key>Gecyrillic</key>
+  <string>G_ecyrillic.glif</string>
+  <key>Gecyrillic.c2sc</key>
+  <string>G_ecyrillic.c2sc.glif</string>
   <key>H</key>
   <string>H_.glif</string>
   <key>H.c2sc</key>
