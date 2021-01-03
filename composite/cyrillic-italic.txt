@@ -1,0 +1,3 @@
+iicyrillic = u | 0438
+pecyrillic = n | 043F
+tecyrillic = m | 0442
