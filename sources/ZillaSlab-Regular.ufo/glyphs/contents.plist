@@ -1314,6 +1314,8 @@
   <string>igrave.glif</string>
   <key>igrave.smcp</key>
   <string>igrave.smcp.glif</string>
+  <key>iicyrillic</key>
+  <string>iicyrillic.glif</string>
   <key>ij</key>
   <string>ij.glif</string>
   <key>ij.smcp</key>
