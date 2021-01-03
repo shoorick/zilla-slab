@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ercyrillic" format="1">
-  <advance width="357"/>
+  <advance width="532"/>
   <unicode hex="0440"/>
   <outline>
     <component base="p"/>
     <contour>
-      <point x="302" y="566" type="move" name="top"/>
+      <point x="291" y="566" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>
