@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pecyrillic" format="1">
+  <advance width="518"/>
+  <unicode hex="043F"/>
+  <outline>
+    <component base="n"/>
+    <contour>
+      <point x="235" y="566" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

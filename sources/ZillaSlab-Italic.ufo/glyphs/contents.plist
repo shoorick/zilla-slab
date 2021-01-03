@@ -692,6 +692,8 @@
   <string>acute.glif</string>
   <key>acute.cap</key>
   <string>acute.cap.glif</string>
+  <key>acyrillic</key>
+  <string>acyrillic.glif</string>
   <key>acyrillic.smcp</key>
   <string>acyrillic.smcp.glif</string>
   <key>adieresis</key>
@@ -1032,8 +1034,12 @@
   <string>equal.inferior.glif</string>
   <key>equalsuperior</key>
   <string>equalsuperior.glif</string>
+  <key>ercyrillic</key>
+  <string>ercyrillic.glif</string>
   <key>ercyrillic.smcp</key>
   <string>ercyrillic.smcp.glif</string>
+  <key>escyrillic</key>
+  <string>escyrillic.glif</string>
   <key>escyrillic.smcp</key>
   <string>escyrillic.smcp.glif</string>
   <key>estimated</key>
@@ -1246,12 +1252,18 @@
   <string>idieresis.smcp.glif</string>
   <key>idotaccent.smcp</key>
   <string>idotaccent.smcp.glif</string>
+  <key>iecyrillic</key>
+  <string>iecyrillic.glif</string>
   <key>iecyrillic.smcp</key>
   <string>iecyrillic.smcp.glif</string>
   <key>igrave</key>
   <string>igrave.glif</string>
   <key>igrave.smcp</key>
   <string>igrave.smcp.glif</string>
+  <key>iicyrillic</key>
+  <string>iicyrillic.glif</string>
+  <key>iishortcyrillic</key>
+  <string>iishortcyrillic.glif</string>
   <key>ij</key>
   <string>ij.glif</string>
   <key>ij.smcp</key>
@@ -1264,6 +1276,8 @@
   <string>infinity.glif</string>
   <key>integral</key>
   <string>integral.glif</string>
+  <key>iocyrillic</key>
+  <string>iocyrillic.glif</string>
   <key>iocyrillic.smcp</key>
   <string>iocyrillic.smcp.glif</string>
   <key>iogonek</key>
@@ -1300,6 +1314,8 @@
   <string>kcommaaccent.glif</string>
   <key>kcommaaccent.smcp</key>
   <string>kcommaaccent.smcp.glif</string>
+  <key>khacyrillic</key>
+  <string>khacyrillic.glif</string>
   <key>khacyrillic.smcp</key>
   <string>khacyrillic.smcp.glif</string>
   <key>l</key>
@@ -1442,6 +1458,8 @@
   <string>ocircumflex.glif</string>
   <key>ocircumflex.smcp</key>
   <string>ocircumflex.smcp.glif</string>
+  <key>ocyrillic</key>
+  <string>ocyrillic.glif</string>
   <key>ocyrillic.smcp</key>
   <string>ocyrillic.smcp.glif</string>
   <key>odieresis</key>
@@ -1540,6 +1558,8 @@
   <string>parenrightsuperior.glif</string>
   <key>partialdiff</key>
   <string>partialdiff.glif</string>
+  <key>pecyrillic</key>
+  <string>pecyrillic.glif</string>
   <key>percent</key>
   <string>percent.glif</string>
   <key>percent.pnum_lnum</key>
@@ -1762,6 +1782,8 @@
   <string>tcommaaccent.glif</string>
   <key>tcommaaccent.smcp</key>
   <string>tcommaaccent.smcp.glif</string>
+  <key>tecyrillic</key>
+  <string>tecyrillic.glif</string>
   <key>tecyrillic.smcp</key>
   <string>tecyrillic.smcp.glif</string>
   <key>thorn</key>

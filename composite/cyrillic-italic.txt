@@ -1,3 +1,4 @@
 iicyrillic = u | 0438
+iishortcyrillic = ubreve | 0439
 pecyrillic = n | 043F
 tecyrillic = m | 0442

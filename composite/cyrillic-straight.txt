@@ -1,1 +1,2 @@
 pecyrillic = pi | 043F
+ucyrillic = y | 0443
